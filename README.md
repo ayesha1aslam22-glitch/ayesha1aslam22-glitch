@@ -27,6 +27,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
 </p>
 
+## 📚 Other Skills
+
+- 🖥️ **Microsoft Office**
+- 📊 **Microsoft Excel**
+- 🌐 **HTML5**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- 🧩 **Bootstrap**
+- 🔗 **jQuery**
+- 📦 **JSON**
+- 🐙 **GitHub**
+- 🔎 **SEO**
 ## 🚀 Featured Projects
 
 ### 🌐 Personal Portfolio Website
